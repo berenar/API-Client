@@ -1,2 +1,2 @@
 # API-Client
-Client for JSONPlaceholder API in PHP.
+Client for JSONPlaceholder API in PHP using HTTPFUL.
